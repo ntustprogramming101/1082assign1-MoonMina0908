@@ -46,7 +46,7 @@ void setup() {
   
   //robot starting position
   robotX=square*2+floor(random(6))*square;
-  robotY=square*2+floor(random(3))*square;
+  robotY=square*2+floor(random(4))*square;
   
   //laser start
   laserX= robotX+25;
