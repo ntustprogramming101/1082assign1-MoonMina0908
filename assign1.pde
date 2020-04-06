@@ -10,7 +10,7 @@ float laserX;
 float laserY;
 float laserWSpeed = 2;
 float laserW = 0;
-float laserMaxW = 40;
+float laserMaxW = 30;
 float laserOne = 0;
 float laserTwo = 0;
 float laserSpeedOne=2;
